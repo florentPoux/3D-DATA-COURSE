@@ -98,7 +98,7 @@ A 10-step Python Guide to Automate 3D Shape Detection, Segmentation, Clustering,
 
 Integrate 3D spatial data with Python and explore essential processing steps for reading, loading, transforming, and visualizing 3D point clouds, meshes, cityGML models, voxels, vector data, satellite raster, and 360 images.
 
-Coming soon.
+📖 [3D Geospatial Data Integration with Python: The Ultimate Guide](https://towardsdatascience.com/3d-spatial-data-integration-with-python-7ef8ef14589a?sk=d9dc99077e82f27ce929f2e15f81cdef)
 
 ### Tutorial 6: Deploying 3D Models in Applications <a name="tutorial-6"></a>
 
